@@ -9,7 +9,7 @@
 
 ## Methodology: CRISP-DM Framework
 
-###This project meticulously follows the six phases of the CRISP-DM methodology:
+### This project meticulously follows the six phases of the CRISP-DM methodology:
 
 #### Business Understanding: Defining the project's objectives (automating legal document classification) and assessing the current situation (manual, time-intensive, error-prone process).
 
